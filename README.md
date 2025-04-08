@@ -1,4 +1,4 @@
-# ATM System in C
+# ATM System in C and Java
 
 This project is a simple ATM system implemented in C. It allows users to create an account, deposit money, withdraw money, and check their account balance through a menu-driven interface.
 
